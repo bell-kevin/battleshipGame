@@ -1,5 +1,7 @@
 # Battleship Game
 
+Play against a bot in a Battleship Game
+
 ![p](https://github.com/bell-kevin/battleshipGame/blob/main/battleship.PNG)
 
 
