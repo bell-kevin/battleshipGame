@@ -1,4 +1,6 @@
-# 
+# Battleship Game
+
+![p](https://github.com/bell-kevin/battleshipGame/blob/main/battleship.PNG)
 
 
 == We're Using GitHub Under Protest ==
